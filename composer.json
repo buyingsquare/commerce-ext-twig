@@ -1,5 +1,5 @@
 {
-	"name": "aimeos/ai-twig",
+	"name": "buyingsquare/commerce-ext-twig",
 	"description": "Twig template engine adapter for Aimeos e-commerce components",
 	"keywords": ["twig", "templates", "aimeos", "extension"],
 	"type": "aimeos-extension",
@@ -16,7 +16,7 @@
 		"php": "~7.1",
 		"twig/twig": "~1.9||~2.0",
 		"composer/installers": "^1.0",
-		"aimeos/aimeos-core": "dev-master"
+		"buyingsquare/commerce-core": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~7.0||~8.0"
